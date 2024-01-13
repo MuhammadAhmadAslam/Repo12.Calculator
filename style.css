@@ -1,0 +1,48 @@
+*{
+  background-color: white;
+}
+@font-face {
+  font-family: 'Instrument';
+  src: url(Fonts/Tektur/Tektur-VariableFont_wdth\,wght.ttf);
+}
+@font-face {
+  font-family: 'Salsa';
+  src: url(Fonts/Salsa/Salsa-Regular.ttf);
+}
+
+div{
+  background-color: #000;
+}
+.button {
+    width: 50px; 
+    height: 50px; 
+    text-align: center;
+    line-height: 50px; 
+    font-size: 35px; 
+    border: 1px solid #000;
+    border-radius: 50%; 
+}
+#b1{
+  background-color: #A7A7A7;
+  font-family: 'Salsa';
+}
+#b2{
+  background-color: #ff9f0a;
+  color: white;
+}
+#b3{
+  background-color: #333333;
+  color: white;
+  font-family: 'Instrument';
+}
+.placeholder{
+              text-align: right;
+              color: white;
+}
+h1{
+  background-color: rgba(211, 198, 11, 0.514);
+  text-align: center;
+  text-shadow: 20px 4px 1px white;
+  font-family: 'Salsa';
+}
+
